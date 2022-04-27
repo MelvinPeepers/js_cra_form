@@ -6,7 +6,7 @@ export default function Form() {
       className='contactForm'
       netlify
       onSubmit="submit"
-      action="/src/success/"
+      action="/pages/success/"
       >
 
       <input 
