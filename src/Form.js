@@ -5,10 +5,10 @@ export default function Form() {
       name='contactform' 
       className='contactForm'>
 
-<input 
-  type='hidden' 
-  name='form-name'
-  value='contactForm' />
+      <input 
+        type='hidden' 
+        name='form-name'
+        value='contactForm' >
 
       <input 
         type='text' 
