@@ -2,8 +2,12 @@ export default function Form() {
   return (
     <form 
       method='POST' 
-      name='contactform' 
-      className='contactForm'>
+      name='contactForm' 
+      className='contactForm'
+      netlify
+      onSubmit="submit"
+      action="/success/"
+      >
 
       <input 
         type='hidden' 
