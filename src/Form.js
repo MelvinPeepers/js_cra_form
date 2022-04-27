@@ -8,7 +8,7 @@ export default function Form() {
       <input 
         type='hidden' 
         name='form-name'
-        value='contactForm' >
+        value='contactForm'/>
 
       <input 
         type='text' 
