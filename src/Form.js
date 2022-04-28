@@ -3,8 +3,7 @@ export default function Form() {
       <form 
         method='POST' 
         name='contactform' 
-        className='contactForm'
-        action="/success" >
+        className='contactForm' >
 
         <input
             type="hidden"
